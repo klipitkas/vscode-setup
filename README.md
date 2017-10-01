@@ -12,3 +12,4 @@ Visual Studio Code - Settings
     "terminal.integrated.lineHeight": 1.25,
 }
 ```
+Fira Mono (not Medium) for gnome terminal-not supporting ligatures :( and Fira Code Medium for VSCode.
