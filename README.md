@@ -1,5 +1,6 @@
 # vscode-setup
 Visual Studio Code - Settings
+```
 {
     "editor.fontSize": 13,
     "editor.fontFamily": "Fira Code Medium",
@@ -10,3 +11,4 @@ Visual Studio Code - Settings
     "terminal.integrated.fontSize": 13,
     "terminal.integrated.lineHeight": 1.25,
 }
+```
